@@ -30,10 +30,10 @@ public class YelpAPI {
 	 * Update OAuth credentials below from the Yelp Developers API site:
 	 * http://www.yelp.com/developers/getting_started/api_access
 	 */
-	private static final String CONSUMER_KEY = "xphjJIUXYMkUPTara_K6fw";
-	private static final String CONSUMER_SECRET = "JU3xizy0Ftpx3x1cRF3QZEHhLmM";
-	private static final String TOKEN = "w_P4fQobrmGHdAFNmO4On0RlhmXAt3lb";
-	private static final String TOKEN_SECRET = "k2tI945nAnQa8V_etgjaIT3500Y";
+	private static final String CONSUMER_KEY = "";//add yelp api details here to work
+	private static final String CONSUMER_SECRET = "";//add yelp api details here to work
+	private static final String TOKEN = "";//add yelp api details here to work
+	private static final String TOKEN_SECRET = "";//add yelp api details here to work
 
 	OAuthService service;
 	Token accessToken;
