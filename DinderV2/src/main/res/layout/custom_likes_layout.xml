@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#a0ffffff"
+              android:weightSum="1"
+              android:textAlignment="center">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="306dp"
+        android:layout_height="75dp"
+        android:background="@drawable/back"
+        android:textSize="20sp"
+        android:singleLine="false"
+        android:textColor="#010101"
+        />
+
+    <ImageView
+        android:id="@+id/maps"
+        android:layout_width="wrap_content"
+        android:layout_height="75dp"
+        android:src="@drawable/gmaps_icon"
+        android:background="@drawable/back"/>
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DinderV2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_Home">Home</string>
+    <string name="title_Favorite">Favorite</string>
+    <string name="title_Community">Community</string>
+    <string name="title_About">About</string>
+
+    <color name="Android_Light_Blue">#33B5E5</color>
+    <color name="Black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="HoloDark">#ff000000</color>
+    <color name="Transparent">#80000000</color>
+    <color name="ToluBlue">#1694b7</color>
+    <color name="Android_Green">#99CC00</color>
+    <color name="Cream">#F5FFFA</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="transparentblue">#99c0f0</color>
+    <color name="yellow">#ffff00</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="DarkSlateGray">#2F4F4F</color>
+    <color name="Textcolor">#99000000</color>
+
+    <string name="title_activity_home">Home</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
