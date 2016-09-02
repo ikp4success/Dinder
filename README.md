@@ -53,3 +53,6 @@ Limit results to those businesses offering a Yelp Deal, and display information 
 Identify and display whether a business has been claimed on Yelp.com
 Author/Source: https://www.yelp.com/developers/documentation/v2/overview
 
+
+https://github.com/ikp4success/Dinder/blob/master/ScreenShot/scsht_1.png
+
