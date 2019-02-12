@@ -1,5 +1,5 @@
 
-**Authors** - Immanuel George, Graham Sullivan , David Jones
+**Authors** - Immanuel George, Graham Sullivan, David Jones
 
 **Independent Project** - Dinder
 
