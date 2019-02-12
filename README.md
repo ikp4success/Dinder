@@ -1,8 +1,8 @@
 
-Authors - Immanuel George, Graham Sullivan , David Jones
-Independent Project - Dinder
-Class - CIS 470
-Cleveland State University
+**Authors** - Immanuel George, Graham Sullivan , David Jones
+**Independent Project** - Dinder
+**Class** - CIS 470
+**Cleveland State University**
 
 **App Description**
 Dinder app, is an app that pulls restaurant around your location and displays it to the user. 
