@@ -1,7 +1,10 @@
 
 **Authors** - Immanuel George, Graham Sullivan , David Jones
+
 **Independent Project** - Dinder
+
 **Class** - CIS 470
+
 **Cleveland State University**
 
 **App Description**
